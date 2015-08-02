@@ -1,0 +1,8 @@
+## Ubuntu Provisioning Scripts for the Masses
+
+This project contains multiple Ubuntu specific provisioning shell scripts.
+I originally created these scripts in order to automate the provisioning of my Ubuntu development VMs on my Vagrant and  ESXi environments. But after a while using them I decided to publish the repo in order to make it available for everyone.
+
+All scripts were successfully tested on Ubuntu 15.04 Server.
+
+*These scripts are provided "as-is". Be mindful of reviewing what they do before using them.*
