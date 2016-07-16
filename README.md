@@ -1,6 +1,6 @@
 ## Ubuntu Provisioning Scripts for the Masses
 
-![Script 'em All](https://imgflip.com/i/17hpp5)
+![Script 'em All](https://i.imgflip.com/17hpp5.jpg)
 
 This project contains multiple Ubuntu specific provisioning shell scripts.
 I created these scripts to automate the processes of provisioning my Ubuntu development VMs on my Vagrant and ESXi environments.
