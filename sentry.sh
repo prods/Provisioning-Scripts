@@ -26,6 +26,8 @@ sudo ./postgres.sh
 sudo ./redis.sh
 # Install psycopg2
 sudo pip install psycopg2
+# Install Pillow Dependencies
+sudo apt-get install python-imaging libjpeg8 libjpeg62-dev libfreetype6 libfreetype6-dev
 # Install Sentry
 sudo pip install sentry
 # Create database and user
